@@ -4,7 +4,7 @@
 #include <QMainWindow>
 #include <stdio.h>
 #include<iostream>
-#include "/home/lex/6_Sistemic/3_Markov_random_fields/2_Libs/maxflow-v3.03/graph.h"
+#include "/home/lex/2_Sistemic/3_Markov_random_fields/2_Libs/maxflow-v3.03/graph.h"
 #include "opencv2/opencv.hpp"
 #include <QString>
 #include <QDebug>
